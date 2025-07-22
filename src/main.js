@@ -5,7 +5,7 @@ import {
   clearGallery,
   showLoader,
   hideLoader,
-} from './js/render-function';
+} from './js/render-functions';
 
 const refs = {
   searchForm: document.querySelector('.js-search-form'),
